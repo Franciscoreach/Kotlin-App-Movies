@@ -1,4 +1,4 @@
-### 🎯 Video del proyecto funcionando
+### 🎯 Video de practica funcionando
 
 ----
                 
